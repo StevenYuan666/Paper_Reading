@@ -74,7 +74,7 @@
 
 **Survey of Self-Play in Reinforcement Learning** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/SURVEY%20OF%20SELF-PLAY%20IN%20REINFORCEMENT%20LEARNING.pdf)
 
-**PantheonRL: A MARL Library for Dynamic Training Interactions ** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/pantheonrl.pdf)
+**PantheonRL: A MARL Library for Dynamic Training Interactions** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/pantheonrl.pdf)
 
 
 
