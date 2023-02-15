@@ -1,5 +1,11 @@
 # Paper_Reading
 
+## This repo is used to maintain my list of "daily" readings. 
+
+## 不积跬步，无以至千里。
+
+
+
 ### Feb 13th, 2023
 
 **Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Meta-Weight-Net.pdf)
