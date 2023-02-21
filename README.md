@@ -1,8 +1,12 @@
 # Paper_Reading
 
-## This repo is used to maintain my list of "daily" readings. 
+## This repo is used to maintain my list of readings. 
 
 ## 不积跬步，无以至千里。
+
+### Feb 21st, 2023
+
+**Design-Bench: Benchmarks for Data-Driven Offline Model-Based Optimization** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Design_bench.pdf)
 
 
 
