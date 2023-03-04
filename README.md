@@ -4,6 +4,12 @@
 
 ## 不积跬步，无以至千里。
 
+### March 3rd, 2023
+
+**Jukebox: A Generative Model for Music** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Jukebox.pdf)
+
+
+
 ### Feb 21st, 2023
 
 **Design-Bench: Benchmarks for Data-Driven Offline Model-Based Optimization** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Design_bench.pdf)
