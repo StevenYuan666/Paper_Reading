@@ -4,6 +4,14 @@
 
 ## 不积跬步，无以至千里。
 
+### March 6th, 2023
+
+**AI and Blockchain: A Disruptive Integration** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/AI_and_Blockchain_A_Disruptive_Integration.pdf)
+
+**Decentralized & Collaborative AI on Blockchain** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Decentralized_and_Collaborative_AI_on_Blockchain.pdf)
+
+
+
 ### March 4th, 2023
 
 **Doubly Robust Off-Policy Actor-Critic Algorithms for Reinforcement Learning** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Doubly%20Robust%20Off-Policy%20Actor-Critic%20Algorithms%20for%20Reinforcement%20Learning.pdf)
