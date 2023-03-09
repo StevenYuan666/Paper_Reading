@@ -4,6 +4,12 @@
 
 ## 不积跬步，无以至千里。
 
+### March 8th, 2023
+
+**A Market Framework for Eliciting Private Data** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/NIPS-2015-a-market-framework-for-eliciting-private-data-Paper.pdf)
+
+
+
 ### March 6th, 2023
 
 **AI and Blockchain: A Disruptive Integration** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/AI_and_Blockchain_A_Disruptive_Integration.pdf)
