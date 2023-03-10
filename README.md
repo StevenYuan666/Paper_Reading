@@ -4,6 +4,12 @@
 
 ## 不积跬步，无以至千里。
 
+### March 9th, 2023
+
+**Knowledge Distillation from A Stronger Teacher** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Knowledge%20Distillation%20from%20A%20Stronger%20Teacher.pdf)
+
+
+
 ### March 8th, 2023
 
 **A Market Framework for Eliciting Private Data** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/NIPS-2015-a-market-framework-for-eliciting-private-data-Paper.pdf)
