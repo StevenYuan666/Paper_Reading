@@ -4,6 +4,12 @@
 
 ## 不积跬步，无以至千里。
 
+### March 14th, 2023
+
+**Trustworthy Federated Learning via Blockchain** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Trustworthy_Federated_Learning_via_Blockchain.pdf)
+
+
+
 ### March 13th, 2023
 
 These are literature review work for one of my current work. I mainly focused on the abstract and introduction parts.
