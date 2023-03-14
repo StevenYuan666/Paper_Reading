@@ -4,6 +4,28 @@
 
 ## 不积跬步，无以至千里。
 
+### March 13th, 2023
+
+These are literature review work for one of my current work. I mainly focused on the abstract and introduction parts.
+
+**ECC-Based Authenticated Key Agreement Protocol for Industrial Control System** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/ECC-Based_Authenticated_Key_Agreement_Protocol_for_Industrial_Control_System.pdf)
+
+**Efficient and Strong Symmetric Password Authenticated Key Exchange With Identity Privacy for IoT** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Efficient_and_Strong_Symmetric_Password_Authenticated_Key_Exchange_With_Identity_Privacy_for_IoT.pdf)
+
+**Blockchain-Based Anonymous Data Sharing With Accountability for Internet of Things** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Blockchain-Based_Anonymous_Data_Sharing_With_Accountability_for_Internet_of_Things.pdf)
+
+**Break the Data Barriers While Keeping Privacy: A Graph Differential Privacy Method** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Break_the_Data_Barriers_While_Keeping_Privacy_A_Graph_Differential_Privacy_Method.pdf)
+
+**An Efficient and Secure Dynamic Auditing Protocol for Data Storage in Cloud Computing** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/An_Efficient_and_Secure_Dynamic_Auditing_Protocol_for_Data_Storage_in_Cloud_Computing.pdf)
+
+**Oruta: Privacy-Preserving Public Auditing for Shared Data in the Cloud** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Oruta_privacy-preserving_public_auditing_for_shared_data_in_the_cloud.pdf)
+
+**An Efficient Data Auditing Protocol With a Novel Sampling Verification Algorithm** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/An_Efficient_Data_Auditing_Protocol_With_a_Novel_Sampling_Verification_Algorithm.pdf)
+
+**A Scalable and Auditable Secure Data Sharing Scheme with Traceability for Fog-Based Smart Logistics** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/A_Scalable_and_Auditable_Secure_Data_Sharing_Scheme_with_Traceability_for_Fog-Based_Smart_Logistics.pdf)
+
+
+
 ### March 9th, 2023
 
 **Knowledge Distillation from A Stronger Teacher** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Knowledge%20Distillation%20from%20A%20Stronger%20Teacher.pdf)
