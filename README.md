@@ -4,6 +4,12 @@
 
 ## 不积跬步，无以至千里。
 
+### March 15th, 2023
+
+**Email as Spectroscopy: Automated Discovery of Community Structure within Organizations** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Email%20as%20Spectroscopy.pdf), [Slide](), [Presentation]()
+
+
+
 ### March 14th, 2023
 
 **Trustworthy Federated Learning via Blockchain** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Trustworthy_Federated_Learning_via_Blockchain.pdf)
