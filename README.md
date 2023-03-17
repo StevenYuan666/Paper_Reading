@@ -4,6 +4,12 @@
 
 ## 不积跬步，无以至千里。
 
+### March 16th, 2023
+
+**Toward Trustworthy AI: Blockchain-Based Architecture Design for Accountability and Fairness of Federated Learning Systems** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Toward_Trustworthy_AI_Blockchain-Based_Architecture_Design_for_Accountability_and_Fairness_of_Federated_Learning_Systems.pdf)
+
+
+
 ### March 15th, 2023
 
 **Email as Spectroscopy: Automated Discovery of Community Structure within Organizations** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Email%20as%20Spectroscopy.pdf), [Slide](), [Presentation]()
