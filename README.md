@@ -24,7 +24,7 @@
 
 ### March 14th, 2023
 
-**Trustworthy Federated Learning via Blockchain** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Trustworthy_Federated_Learning_via_Blockchain.pdf), [Slide]()
+**Trustworthy Federated Learning via Blockchain** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Trustworthy_Federated_Learning_via_Blockchain.pdf), [Slide](https://github.com/StevenYuan666/Paper_Reading/blob/main/Slides/Trustworthy%20FL%20with%20Blockchain.pdf)
 
 
 
