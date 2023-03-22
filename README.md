@@ -4,6 +4,12 @@
 
 ## 不积跬步，无以至千里。
 
+### March 21st, 2023
+
+**Crafting Your Research Future Chapter1** [Book](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Crafting-Your-Research-Future.pdf)
+
+
+
 ### March 20th, 2023
 
 **High-resolution image reconstruction with latent diffusion models from human brain activity** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/High-resolution%20image%20reconstruction.pdf)
