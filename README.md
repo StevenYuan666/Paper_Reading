@@ -4,6 +4,12 @@
 
 ## 不积跬步，无以至千里。
 
+### March 24th, 2023
+
+**Crafting Your Research Future Chapter4** [Book](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Crafting-Your-Research-Future.pdf)
+
+
+
 ### March 23rd, 2023
 
 **Crafting Your Research Future Chapter3** [Book](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Crafting-Your-Research-Future.pdf)
@@ -36,7 +42,7 @@
 
 ### March 15th, 2023
 
-**Email as Spectroscopy: Automated Discovery of Community Structure within Organizations** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Email%20as%20Spectroscopy.pdf), [Slide](), [Presentation]()
+**Email as Spectroscopy: Automated Discovery of Community Structure within Organizations** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Email%20as%20Spectroscopy.pdf), [Slide](https://github.com/StevenYuan666/Paper_Reading/blob/main/Slides/Email_As_Spectroscopy.pdf), [Presentation](https://github.com/StevenYuan666/Paper_Reading/blob/main/Slides/Email_As_Spectroscopy_speech.pdf)
 
 
 
