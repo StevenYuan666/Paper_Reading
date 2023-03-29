@@ -4,6 +4,24 @@
 
 ## 不积跬步，无以至千里。
 
+### March 29th, 2023
+
+
+
+
+
+### March 28th, 2023
+
+**Crafting Your Research Future Chapter6** [Book](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Crafting-Your-Research-Future.pdf)
+
+
+
+### March 27th, 2023
+
+**Crafting Your Research Future Chapter5** [Book](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Crafting-Your-Research-Future.pdf)
+
+
+
 ### March 24th, 2023
 
 **Crafting Your Research Future Chapter4** [Book](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Crafting-Your-Research-Future.pdf)
