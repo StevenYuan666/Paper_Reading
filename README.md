@@ -6,7 +6,11 @@
 
 ### March 29th, 2023
 
+**A three-way model for collective learning on multi-relational data** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/A%20Three-Way%20Model%20for%20Collective%20Learning%20on%20Multi.pdf)
 
+**Reasoning With Neural Tensor Networks for Knowledge Base Completion** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Reasoning%20With%20Neural%20Tensor%20Networks%20for%20Knowledg.pdf)
+
+**Translating embeddings for modeling multi-relational data** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Translating%20Embeddings%20for%20Modeling%20Multi-relation.pdf)
 
 
 
