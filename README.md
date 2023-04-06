@@ -4,6 +4,18 @@
 
 ## 不积跬步，无以至千里。
 
+### April 1st, 2023
+
+**Crafting Your Research Future Chapter8** [Book](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Crafting-Your-Research-Future.pdf)
+
+
+
+### March 31st, 2023
+
+**Crafting Your Research Future Chapter7** [Book](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Crafting-Your-Research-Future.pdf)
+
+
+
 ### March 29th, 2023
 
 **A three-way model for collective learning on multi-relational data** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/A%20Three-Way%20Model%20for%20Collective%20Learning%20on%20Multi.pdf)
