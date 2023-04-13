@@ -4,6 +4,12 @@
 
 ## 不积跬步，无以至千里。
 
+### April 13th, 2023
+
+**Generative Agents: Interactive Simulacra of Human Behavior** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/Generative%20Agents.pdf)
+
+
+
 ### April 6th, 2023
 
 **Attention Is All You Need** [Paper](https://github.com/StevenYuan666/Paper_Reading/blob/main/Papers/attention-is-all-you-need.pdf)
